@@ -4264,6 +4264,22 @@ input.upload-image {
   margin-bottom: 0;
 }
 
+ul.u-movie-details {
+  padding: 0;
+  list-style-type: none;
+  text-align: left;
+}
+.u-buy-button {
+  display: inline-block;
+  border: 1px solid #F96332;
+  color: #F96332 !important;
+  padding: 5px 15px;
+  border-radius: 30px;
+}
+.u-movie-details li{
+
+}
+
 .main-panel .header {
   margin-bottom: 50px;
 }
